@@ -396,7 +396,6 @@ Free Software Contributor)
 1. Ben Sandeen
 1. Ben Tasker
 1. Ben Werdmuller
-1. Benjamin Reed (OpenNMS, former KDE and Fink maintainer)
 1. Bernhard Hayden
 1. Bert Boerland (Drupal Netherlands)
 1. Bert Hubert (founder of PowerDNS)
@@ -882,6 +881,7 @@ Free Software Contributor)
 1. Emma Vargas (@4PERTURE on GitHub)
 1. Em Morales
 1. Enio Gemmo (LibreItalia Chairman)
+1. Enno Boland
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs 
 1. Ercan Ünal
